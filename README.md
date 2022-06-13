@@ -1,2 +1,1 @@
 # design-pattern
-# kk
